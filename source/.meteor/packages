@@ -7,3 +7,8 @@
 meteor-platform
 autopublish
 insecure
+bootstrap
+accounts-google
+accounts-facebook
+accounts-github
+accounts-ui
