@@ -1,2 +1,2 @@
 # pdxtechwomen
-aggregating social women in technology
+aggregating social women in technology!
